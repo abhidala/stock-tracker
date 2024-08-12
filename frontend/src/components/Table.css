@@ -1,0 +1,15 @@
+.table-container {
+    text-align: center;
+  }
+  
+  table {
+    margin: 0 auto;
+    border-spacing: 10px;
+    border-collapse: separate;
+  }
+  
+  th, td {
+    padding: 10px;
+  }
+  
+  
